@@ -1,0 +1,41 @@
+PROGRAM EXEMPLO
+   
+INTEGER X
+INTEGER N
+
+FUNCTION FATORIAL(A AS INTEGER) AS INTEGER
+	
+	IF A = 1 OR A = 0 THEN
+		
+		FATORIAL = 1
+	
+	ELSE
+	
+		FATORIAL = A * FATORIAL(A-1)
+		
+	END IF
+
+
+END FUNCTION
+
+DO
+
+PRINT "Bem vindo ao teste master do compilador glb"
+PRINT "Digite 1: Para Chamar a funcao fatorial"
+PRINT "Digite 2: Para Sair"
+
+INPUT X
+
+IF X = 1 THEN
+	PRINT "Digita um numero que eu mando o fatorial !"
+	PRINT "Se liga champz um numero menor que 15... int32"
+	INPUT N
+	PRINT "resultado: ", FATORIAL (N)
+	PRINT ""
+ELSE
+	PRINT "voce digitou: ", X
+END IF
+
+LOOP UNTIL X <> 2 
+
+END

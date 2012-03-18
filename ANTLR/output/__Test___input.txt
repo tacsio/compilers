@@ -1,0 +1,31 @@
+PROGRAM teste 
+
+FUNCTION teste (fat AS INTEGER, b AS BOOLEAN) AS INTEGER
+
+IF TRUE or FALSE and a > b THEN
+	fatorial = 2 + 9 * 8 * (2 + 3)
+	bool = a and b or not c
+ELSE
+	DO WHILE a>b and not c = TRUE
+		PRINT "yeah yeah", m
+		IF TRUE THEN
+			
+		ELSE
+			EXIT DO
+		END IF
+	LOOP
+END IF
+
+retorno = as
+
+END FUNCTION
+
+/*
+ajfafsaksfnaksfn
+*/
+
+fatorial (123)
+
+INPUT a ,b ,c
+INPUT e3
+END
