@@ -1,13 +1,13 @@
-versidade Federal de Pernambuco
-####CIn - Centro de Informática
+### Universidade Federal de Pernambuco
+####CIn - Centro de Informï¿½tica
 
 ##Simple compiler written in Java
 
 ###Authors:
-* Luiz Antônio Correia - lac2@cin.ufpe.br
+* Luiz Antï¿½nio Correia - lac2@cin.ufpe.br
 * Marina Alecrim - macn@cin.ufpe.br
 * Sara Carvalho - scrb2@cin.ufpe.br
 * Tarcisio Coutinho - tcs5@cin.ufpe.br
 
 ###Objetivo:
-Desenvolver um compilador para uma versão simplificada da linguagem basic em Java. Gerando código para a máquina virtual .NET
+Desenvolver um compilador para uma versï¿½o simplificada da linguagem basic em Java. Gerando cï¿½digo para a mï¿½quina virtual .NET
